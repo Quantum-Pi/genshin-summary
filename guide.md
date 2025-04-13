@@ -6,41 +6,107 @@
 
 ### Archon Quest
 
-- Prologue
-  - Act I: The Outlander Who Caught the Wind
-  - Act II: For a Tomorrow Without Tears
-  - Act III: A New Star Approaches
-- Chapter 1
-  - Act I: Of the Land Amidst Monoliths
-  - Act II: Farewell, Archaic Lord
+- Prologue Act I: The Outlander Who Caught the Wind
+- Prologue Act II: For a Tomorrow Without Tears
+- Prologue Act III: A New Star Approaches
+- Chapter 1 Act I: Of the Land Amidst Monoliths
+- Chapter 1 Act II: Farewell, Archaic Lord
 
 ### Story Quest
 
-- TBD  
+- Kaeya: Secret Pirate Treasure
+- Amber: Wind, Courage, and Wings
+- Xiangling: Mondstadt Gastronomy Trip
+- Lisa: Troublesome Work
+- Diluc: Darknight Hero's Alibi
+- Razor: The Meaning of Lupical
+- Xingqiu: Bookworm Swordsman
+- Klee: True Treasure
+- Jean: Master's Day Off
+- Venti: Should You Be Trapped in a Windless Land
+- Mona: Beyond This World's Stars
+
+### Event
 
 ## 1.1: A New Star Approaches
 
 ![1.1](./update-banner/1-1.png)
 
+### Archon Quest
+
+- Chapter I: Act III - A New Star Approaches
+
+### Story Quest
+
+- Tartaglia: Mighty Cyclops' Adventure!
+- Zhongli: Sal Flore
+
+### Event
+
+- Unreconciled Stars
+
 ## 1.2: The Chalk Prince and the Dragon
 
 ![1.2](./update-banner/1-2.png)
+
+### Story Quest
+
+- Albedo: Traveler Observation Report
+- Ganyu: Sea of Clouds, Sea of People
+
+### Event
+
+- The Chalk Prince and the Dragon
 
 ## 1.3: All That Glitters
 
 ![1.3](./update-banner/1-3.png)
 
+### Archon Quest
+
+- Bough Keeper: Dainsleif
+
+### Story Quest
+
+- Xiao: Butterfly's Dream
+- Hu Tao: Yet the Butterfly Flutters Away
+
+### Event
+
+- Lantern Rite
+
 ## 1.4: Invitation of Windblume
 
 ![1.4](./update-banner/1-4.png)
+
+### Archon Quest
+
+- Chapter I: Act IV - We Will Be Reunited
+
+### Event
+
+- Invitation of Windblume
 
 ## 1.5: Beneath the Light of Jadeite
 
 ![1.5](./update-banner/1-5.png)
 
+### Story Quest
+
+- Zhongli: No Mere Stone
+- Eula: The Spindrift Shall Never Return to the Sea
+
 ## 1.6: Midsummer Island Adventure
 
 ![1.6](./update-banner/1-6.png)
+
+### Archon Quest
+
+- Chapter II Prologue: "Autumn Winds, Scarlet Leaves"
+
+### Event
+
+- Midsummer Island Adventure
 
 # Inazuma
 
@@ -48,37 +114,137 @@
 
 ![2.0](./update-banner/2-0.png)
 
+### Archon Quest
+
+- Chapter 2 Act I: The Immovable God and the Eternal Euthymia
+- Chapter 2 Act II: Stillness, the Sublimation of Shadow
+
+### Story Quest
+
+- Kamisato Ayaka: The Whispers of the Crane and the White Rabbit
+- Yoimiya: Dreamlike Timelessness
+
+### Event
+
+- Thunder Sojourn
+
 ## 2.1: Floating World Under the Moonlight
 
 ![2.1](./update-banner/2-1.png)
+
+### Archon Quest
+
+- Chapter 2 Act III - Omnipresence Over Mortals
+
+### Story Quest
+
+- Raiden Shogun: Reflections of Mortality
+- Sangonomiya Kokomi: Warriors' Dreams Like Spring Grass Renewing
+
+### Event
+
+- Moonlight Merriment
 
 ## 2.2: Into the Perilous Labyrinth of Fog
 
 ![2.2](./update-banner/2-2.png)
 
+### World Quest
+
+- Through the Mists
+
+### Event
+
+- Labyrinth Warriors
+
 ## 2.3: Shadows Amidst Snowstorms
 
 ![2.3](./update-banner/2-3.png)
+
+### Story Quest
+
+- Arataki Itto: Rise Up, Golden Soul
+
+### Event
+
+- Shadows Amidst Snowstorms
 
 ## 2.4: Fleeting Colors in Flight
 
 ![2.4](./update-banner/2-4.png)
 
+### Archon Quest
+
+- Interlude Chapter Act I: "The Crane Returns on the Wind"
+
+### World Quest
+
+- Enkanomiya
+
+### Event
+
+- Fleeting Colors in Flight
+
 ## 2.5: When the Sakura Bloom
 
 ![2.5](./update-banner/2-5.png)
+
+### Story Quest
+
+- Raiden Shogun: "Transient Dreams"
+- Yae Miko: "The Great Narukami Offering"
+
+### Event
+
+- Three Realms Gateway Offering
 
 ## 2.6: Zephyr of the Violet Garden
 
 ![2.6](./update-banner/2-6.png)
 
+### Archon Quest
+
+- Chapter 2 Act IV: Requiem of the Echoing Depths
+
+### Story Quest
+
+- Ayato: The Firmiana Leaf Falls
+
+### World Quest
+
+- The Chasm
+
+### Event
+
+- Hues of the Violet Garden
+
 ## 2.7: Hidden Dreams in the Depths
 
 ![2.7](./update-banner/2-7.png)
 
+### Archon Quest
+
+- Interlude Chapter Act II - Perilous Trail
+
+### Story Quest
+
+- Yelan: Calculated Gambit
+
+### Event
+
+- Perilous Trail
+
 ## 2.8: Summer Fantasia
 
 ![2.8](./update-banner/2-8.png)
+
+### Story Quest
+
+- Kaedehara Kazuha: A Strange and Friendless Road
+
+### Event
+
+- Summertime Odyssey
 
 # Sumeru
 
