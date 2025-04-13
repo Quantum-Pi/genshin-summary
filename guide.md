@@ -44,6 +44,11 @@
 ### Event
 
 - Unreconciled Stars
+  - **Summary**: People all over Teyvat started collapsing after weird meteorites fell from the sky. I teamed up with Fischl and Mona to figure out what was going on. We traced the source to these ‘false stars’ messing with people’s minds. Just when we thought we had a lead, we met Scaramouche—seemed helpful, but he turned out to be a Fatui Harbinger and double-crossed us. In the end, we stopped the worst of the damage, but Scaramouche got away, and the bigger mystery behind the stars was left unsolved.
+  - **Characters**: Fischl, Mona, Scaramouche
+  - **Important Lore**:
+    - Scaramouche is a fatui harbinger
+    - The sky is false
 
 ## 1.2: The Chalk Prince and the Dragon
 
@@ -57,6 +62,12 @@
 ### Event
 
 - The Chalk Prince and the Dragon
+  - **Summary**: In this snowy event set in the newly introduced Dragonspine region, the Traveler teams up with Albedo, the mysterious Chief Alchemist of the Knights of Favonius. Albedo is studying a strange substance called 'Dragonspine's Essence' and investigating a dark sword known as Festering Desire. As the investigation unfolds, it's revealed that the sword contains remnants of Durin, a corrupted dragon slain by Dvalin long ago. Albedo, whose origins are already a bit suspicious, struggles with the temptation of power and the morality of creation. The event concludes with Albedo deciding not to pursue forbidden knowledge for now, and he entrusts the Traveler with the enhanced Festering Desire. Meanwhile, the presence of mysterious forces (like the remnants of Gold’s experiments) lingers ominously.
+  - **Characters**: Albedo, Sucrose, Amber
+  - **Important Lore**:
+    - Albedo is introduced as the Chief Alchemist of the Knights of Favonius and a student of the famed alchemist Rhinedottir.
+    - Durin, a dragon created by Rhinedottir, was defeated by Dvalin but its remains still corrupt Dragonspine.
+    - The sword Festering Desire contains remnants of Durin's power and can influence its wielder.
 
 ## 1.3: All That Glitters
 
@@ -74,6 +85,11 @@
 ### Event
 
 - Lantern Rite
+  - **Summary**: Liyue comes together to celebrate their biggest annual tradition. As the city prepares for the release of thousands of Xiao Lanterns and a grand Mingxiao Lantern, the Traveler helps various citizens with preparations. The story focuses heavily on Xiao, the reclusive adeptus who is initially reluctant to join in the celebrations due to his karmic burden. Over time, he opens up slightly thanks to the Traveler’s efforts and memories of the past. Keqing also plays a big role, showing her commitment to Liyue’s future after Rex Lapis’s departure. The event culminates in a beautiful lantern release that honors those who’ve passed and brings the community together.
+  - **Characters**: Xiao, Ganyu, Keqing, Ningguang, Zhongli, Xiangling, Chongyun, Xianyan
+  - **Important Lore**:
+    - Xiao fights karmic debt daily due to the centuries of battles he’s fought against evil spirits.
+    - Xiao was saved by Rex Lapis (Morax) from enslavement by an evil god, which is why he serves Liyue.
 
 ## 1.4: Invitation of Windblume
 
