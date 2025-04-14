@@ -39,7 +39,7 @@
 ### Story Quest
 
 - Tartaglia: Mighty Cyclops' Adventure!
-  - **Summary**: In 'Mighty Cyclops' Adventure!', the Traveler and Paimon investigate a Ruin Guard disturbance near Lingju Pass and encounter Teucer, a young boy from Snezhnaya searching for his brother, a 'toy seller' in Liyue. They discover that Teucer's brother is Childe, who maintains a facade to hide his identity as a Fatui Harbinger. Childe asks the Traveler and Paimon to accompany Teucer around Liyue while he attends to business. During their tour, Teucer insists on visiting his brother, leading them to witness Childe's dealings with Treasure Hoarders and Fatui recruits. To preserve his cover, Childe improvises explanations for his actions. Later, Teucer requests to see the 'Institute for Toy Research,' which is actually an abandoned Ruin Guard facility. Childe leads them there and, to protect Teucer, uses his Foul Legacy Transformation to destroy the Ruin Guards, injuring himself in the process. Before Teucer departs for Snezhnaya, Childe secretly gives him a Mr. Cyclops action figure. Teucer thanks the Traveler and Paimon for the adventure, and Childe expresses gratitude for their help in maintaining his cover.
+  - **Summary**: The Traveler and Paimon investigate a Ruin Guard disturbance near Lingju Pass and encounter Teucer, a young boy from Snezhnaya searching for his brother, a 'toy seller' in Liyue. They discover that Teucer's brother is Childe, who maintains a facade to hide his identity as a Fatui Harbinger. Childe asks the Traveler and Paimon to accompany Teucer around Liyue while he attends to business. During their tour, Teucer insists on visiting his brother, leading them to witness Childe's dealings with Treasure Hoarders and Fatui recruits. To preserve his cover, Childe improvises explanations for his actions. Later, Teucer requests to see the 'Institute for Toy Research,' which is actually an abandoned Ruin Guard facility. Childe leads them there and, to protect Teucer, uses his Foul Legacy Transformation to destroy the Ruin Guards, injuring himself in the process. Before Teucer departs for Snezhnaya, Childe secretly gives him a Mr. Cyclops action figure. Teucer thanks the Traveler and Paimon for the adventure, and Childe expresses gratitude for their help in maintaining his cover.
   - **Characters**: Childe
   - **Important Lore**:
     - Teucer is Childe's youngest sibling and is unaware of his brother's true occupation.
@@ -58,7 +58,7 @@
 ### Event
 
 - Unreconciled Stars
-  - **Summary**: In the 'Unreconciled Stars' event, mysterious meteorites crash into Mondstadt and Liyue, causing people to fall into a deep slumber filled with strange dreams. The Traveler teams up with Fischl and Mona to investigate the phenomenon. Mona uses her astrological skills to predict meteorite strike zones, while Fischl assists in the field. During the investigation, they encounter Scaramouche, a mysterious figure from Inazuma who claims to be researching the same issue. As the team collects meteorite shards and battles waves of enemies drawn to the meteorites' energy, they uncover that the meteorites are remnants of a fallen constellation. The event concludes with the resolution of the meteorite crisis and the distribution of rewards, including the opportunity to obtain Fischl as a playable character.
+  - **Summary**: Mysterious meteorites crash into Mondstadt and Liyue, causing people to fall into a deep slumber filled with strange dreams. The Traveler teams up with Fischl and Mona to investigate the phenomenon. Mona uses her astrological skills to predict meteorite strike zones, while Fischl assists in the field. During the investigation, they encounter Scaramouche, a mysterious figure from Inazuma who claims to be researching the same issue. As the team collects meteorite shards and battles waves of enemies drawn to the meteorites' energy, they uncover that the meteorites are remnants of a fallen constellation. The event concludes with the resolution of the meteorite crisis and the distribution of rewards, including the opportunity to obtain Fischl as a playable character.
   - **Characters**: Fischl, Mona, Scaramouche
   - **Important Lore**:
 
@@ -69,7 +69,7 @@
 ### Story Quest
 
 - Albedo: Traveler Observation Report
-  - **Summary**: In 'Traveler Observation Report,' the Traveler is invited by Sucrose to assist her mentor, Albedo, the Chief Alchemist of the Knights of Favonius, with his research in Dragonspine. Albedo is intrigued by the Traveler's unique origin and conducts a series of experiments to study their elemental abilities. These experiments include battling slimes, consuming a potion, and attempting to break a pillar using mental focus. Despite the Traveler's efforts, Albedo observes no significant anomalies but remains fascinated by their otherworldly nature. The quest concludes with Albedo expressing his continued interest in the Traveler and hinting at future research endeavors.
+  - **Summary**: The Traveler is invited by Sucrose to assist her mentor, Albedo, the Chief Alchemist of the Knights of Favonius, with his research in Dragonspine. Albedo is intrigued by the Traveler's unique origin and conducts a series of experiments to study their elemental abilities. These experiments include battling slimes, consuming a potion, and attempting to break a pillar using mental focus. Despite the Traveler's efforts, Albedo observes no significant anomalies but remains fascinated by their otherworldly nature. The quest concludes with Albedo expressing his continued interest in the Traveler and hinting at future research endeavors.
   - **Characters**: Albedo, Sucrose, Rosaria
   - **Important Lore**:
     - Albedo is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.
@@ -77,7 +77,7 @@
     - Sucrose is Albedo's assistant and a fellow alchemist interested in bio-alchemy.
     - Rosaria is a nun of the Church of Favonius who is skeptical of religious ceremonies and prefers to act independently.
 - Ganyu: Sea of Clouds, Sea of People
-  - **Summary**: In 'Sea of Clouds, Sea of People,' Ganyu, feeling out of place among humans due to her half-qilin heritage, retreats to Jueyun Karst. The Traveler and Paimon are tasked with finding her after she fails to return from delivering a letter to the adepti. They discover Ganyu undergoing trials set by Cloud Retainer and Xiao to reconnect with her adeptus roots. Despite completing the trials, Ganyu realizes she feels more at home among humans. She returns to Liyue Harbor, embracing her role as a bridge between humans and adepti.
+  - **Summary**: Ganyu, feeling out of place among humans due to her half-qilin heritage, retreats to Jueyun Karst. The Traveler and Paimon are tasked with finding her after she fails to return from delivering a letter to the adepti. They discover Ganyu undergoing trials set by Cloud Retainer and Xiao to reconnect with her adeptus roots. Despite completing the trials, Ganyu realizes she feels more at home among humans. She returns to Liyue Harbor, embracing her role as a bridge between humans and adepti.
   - **Characters**: Ganyu, Cloud Retainer, Xiao, Ningguang
   - **Important Lore**:
     - Ganyu is a half-qilin adeptus who serves as the secretary to the Liyue Qixing.
@@ -86,7 +86,7 @@
 ### Event
 
 - The Chalk Prince and the Dragon
-  - **Summary**: In 'The Chalk Prince and the Dragon,' the Traveler and Paimon join Sucrose in Dragonspine to assist Albedo with his research. Albedo entrusts them with a mysterious sword called Festering Desire, requesting they test it in combat. As they delve deeper, they uncover that the sword contains remnants of Durin, a dragon once defeated by Dvalin. The Fatui, learning of the sword's power, attempt to seize it, but are thwarted by the Traveler and Albedo. Through a series of trials, the sword is purified, and its power is stabilized. The event concludes with Albedo expressing gratitude and hinting at future collaborations.
+  - **Summary**: The Traveler and Paimon join Sucrose in Dragonspine to assist Albedo with his research. Albedo entrusts them with a mysterious sword called Festering Desire, requesting they test it in combat. As they delve deeper, they uncover that the sword contains remnants of Durin, a dragon once defeated by Dvalin. The Fatui, learning of the sword's power, attempt to seize it, but are thwarted by the Traveler and Albedo. Through a series of trials, the sword is purified, and its power is stabilized. The event concludes with Albedo expressing gratitude and hinting at future collaborations.
   - **Characters**: Albedo, Sucrose, Rosaria
   - **Important Lore**:
     - Festering Desire is a sword imbued with remnants of Durin's power.
@@ -105,14 +105,29 @@
 ### Story Quest
 
 - Xiao: Butterfly's Dream
+  - **Summary**: The Traveler and Paimon encounter hilichurls near Wangshu Inn emitting a dark aura. They meet a masked man claiming to be an adeptus named Starsnatcher, who offers exorcisms for Mora. Suspicious of his authenticity, they investigate further and discover that Starsnatcher is a fraud exploiting people's fears. With Xiao's guidance, they perform a ritual to confront and defeat Starsnatcher's spirit, recovering a Sigil of Permission. The quest concludes with Xiao reflecting on his duty and the burdens he bears.
+  - **Characters**: Xiao, Starsnatcher
+  - **Important Lore**:
+    - Xiao is one of the five foremost Yakshas summoned by Rex Lapis to subdue the lingering hatred of fallen gods.
+    - The Yakshas' duty exposed them to immense karmic debt, leading to the demise or disappearance of all but Xiao.
+    - Xiao was enslaved by an ancient god who forced him to perform cruel acts, including devouring dreams.
+    - Rex Lapis liberated Xiao during the Archon War and gave him the name 'Xiao' for his protection.
 - Hu Tao: Yet the Butterfly Flutters Away
+  - **Summary**: The Traveler and Paimon encounter Hu Tao, the 77th Director of the Wangsheng Funeral Parlor, while investigating supernatural occurrences in Wuwang Hill. They meet Meng, an intern haunted by a childhood ghost named Big G. Hu Tao enlists the Traveler's help to uncover the truth behind Big G's lingering spirit. The group gathers keepsakes from Big G's friends and conducts a farewell ceremony in a domain called the 'border.' After the ceremony, Big G finds peace and moves on to the afterlife. The quest concludes with Hu Tao expressing her appreciation for the Traveler's assistance and offering a deeper understanding of her role in guiding spirits.
+  - **Characters**: Hu Tao, Meng, Big G
+  - **Important Lore**:
+    - Hu Tao is the 77th Director of the Wangsheng Funeral Parlor in Liyue. She is responsible for conducting funerals and guiding spirits to the afterlife.
+    - Hu Tao can see and communicate with ghosts.
+    - The 'border' is a domain where farewell ceremonies for lingering spirits are conducted.
 
 ### Event
 
 - Lantern Rite
-  - **Summary**:
-  - **Characters**:
+  - **Summary**: During Liyue's Lantern Rite Festival, the Traveler and Paimon are asked by Verr Goldet to check on Xiao, who is reluctant to participate in the festivities. While enjoying the festival, they uncover a suspicious individual near the Mingxiao Lantern's construction site. Their investigation leads them to Mondstadt, where Kaeya helps identify the suspect as a member of the Treasure Hoarders. After thwarting the suspect's misguided plan, they return to Liyue. To include Xiao in the celebrations, they set up a mini-festival at Wangshu Inn. Eventually, they convince Xiao to accompany them to a vantage point to view the Mingxiao Lantern, allowing him to quietly appreciate the festival.
+  - **Characters**: Xiao
   - **Important Lore**:
+    - The Mingxiao Lantern is a massive lantern built annually during the Lantern Rite Festival, with materials contributed by the people of Liyue.
+    - The 1.3 Lantern Rite Festival's Mingxiao Lantern was dedicated to Skybracer, a fallen adeptus who sacrificed himself to protect Mt. Tianheng.
 
 ## 1.4: Invitation of Windblume
 
