@@ -39,16 +39,27 @@
 ### Story Quest
 
 - Tartaglia: Mighty Cyclops' Adventure!
+  - **Summary**: In 'Mighty Cyclops' Adventure!', the Traveler and Paimon investigate a Ruin Guard disturbance near Lingju Pass and encounter Teucer, a young boy from Snezhnaya searching for his brother, a 'toy seller' in Liyue. They discover that Teucer's brother is Childe, who maintains a facade to hide his identity as a Fatui Harbinger. Childe asks the Traveler and Paimon to accompany Teucer around Liyue while he attends to business. During their tour, Teucer insists on visiting his brother, leading them to witness Childe's dealings with Treasure Hoarders and Fatui recruits. To preserve his cover, Childe improvises explanations for his actions. Later, Teucer requests to see the 'Institute for Toy Research,' which is actually an abandoned Ruin Guard facility. Childe leads them there and, to protect Teucer, uses his Foul Legacy Transformation to destroy the Ruin Guards, injuring himself in the process. Before Teucer departs for Snezhnaya, Childe secretly gives him a Mr. Cyclops action figure. Teucer thanks the Traveler and Paimon for the adventure, and Childe expresses gratitude for their help in maintaining his cover.
+  - **Characters**: Childe
+  - **Important Lore**:
+    - Teucer is Childe's youngest sibling and is unaware of his brother's true occupation.
+    - Childe maintains a false identity as a toy seller to conceal his role as a Fatui Harbinger from his younger brother, Teucer.
+    - Childe utilizes his Foul Legacy Transformation to combat Ruin Guards, indicating the technique's significant power and personal cost.
+    - Childe's dedication to his family is profound, often placing their well-being above his own safety.
+
 - Zhongli: Sal Flore
+  - **Summary**: The Traveler and Paimon join Zhongli on an archaeological expedition to uncover relics of the God of Salt, Havria. Alongside them are Wanyan, an ardent follower of Havria, and Kliment, a Fatui archaeologist with ulterior motives. Upon discovering the ruins, Zhongli proposes a contract: each person may claim one relic in turn. However, Kliment breaks the agreement out of greed and is swiftly expelled by Zhongli. Wanyan, seeking to vindicate Havria and condemn Morax, also violates the contract. She learns a harsh truth: Havria was betrayed and slain by her own people during the Archon War. Disillusioned, Wanyan departs in silence. The quest concludes with Zhongli reflecting on history's fragility and entrusting the Traveler with preserving Liyue's legacy.
+  - **Characters**: Zhongli, Havria
+  - **Important Lore**:
+    - Havria, the God of Salt, was a gentle deity betrayed and killed by her own followers during the Archon War.
+    - The betrayal led to the salinization of many of her followers, preserving their final moments in salt.
 
 ### Event
 
 - Unreconciled Stars
-  - **Summary**: People all over Teyvat started collapsing after weird meteorites fell from the sky. I teamed up with Fischl and Mona to figure out what was going on. We traced the source to these ‘false stars’ messing with people’s minds. Just when we thought we had a lead, we met Scaramouche—seemed helpful, but he turned out to be a Fatui Harbinger and double-crossed us. In the end, we stopped the worst of the damage, but Scaramouche got away, and the bigger mystery behind the stars was left unsolved.
+  - **Summary**: In the 'Unreconciled Stars' event, mysterious meteorites crash into Mondstadt and Liyue, causing people to fall into a deep slumber filled with strange dreams. The Traveler teams up with Fischl and Mona to investigate the phenomenon. Mona uses her astrological skills to predict meteorite strike zones, while Fischl assists in the field. During the investigation, they encounter Scaramouche, a mysterious figure from Inazuma who claims to be researching the same issue. As the team collects meteorite shards and battles waves of enemies drawn to the meteorites' energy, they uncover that the meteorites are remnants of a fallen constellation. The event concludes with the resolution of the meteorite crisis and the distribution of rewards, including the opportunity to obtain Fischl as a playable character.
   - **Characters**: Fischl, Mona, Scaramouche
   - **Important Lore**:
-    - Scaramouche is a fatui harbinger
-    - The sky is false
 
 ## 1.2: The Chalk Prince and the Dragon
 
@@ -57,17 +68,30 @@
 ### Story Quest
 
 - Albedo: Traveler Observation Report
+  - **Summary**: In 'Traveler Observation Report,' the Traveler is invited by Sucrose to assist her mentor, Albedo, the Chief Alchemist of the Knights of Favonius, with his research in Dragonspine. Albedo is intrigued by the Traveler's unique origin and conducts a series of experiments to study their elemental abilities. These experiments include battling slimes, consuming a potion, and attempting to break a pillar using mental focus. Despite the Traveler's efforts, Albedo observes no significant anomalies but remains fascinated by their otherworldly nature. The quest concludes with Albedo expressing his continued interest in the Traveler and hinting at future research endeavors.
+  - **Characters**: Albedo, Sucrose, Rosaria
+  - **Important Lore**:
+    - Albedo is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.
+    - Albedo was raised by Rhinedottir, a renowned alchemist, and has no memory of any blood relatives.
+    - Sucrose is Albedo's assistant and a fellow alchemist interested in bio-alchemy.
+    - Rosaria is a nun of the Church of Favonius who is skeptical of religious ceremonies and prefers to act independently.
 - Ganyu: Sea of Clouds, Sea of People
+  - **Summary**: In 'Sea of Clouds, Sea of People,' Ganyu, feeling out of place among humans due to her half-qilin heritage, retreats to Jueyun Karst. The Traveler and Paimon are tasked with finding her after she fails to return from delivering a letter to the adepti. They discover Ganyu undergoing trials set by Cloud Retainer and Xiao to reconnect with her adeptus roots. Despite completing the trials, Ganyu realizes she feels more at home among humans. She returns to Liyue Harbor, embracing her role as a bridge between humans and adepti.
+  - **Characters**: Ganyu, Cloud Retainer, Xiao, Ningguang
+  - **Important Lore**:
+    - Ganyu is a half-qilin adeptus who serves as the secretary to the Liyue Qixing.
+    - She has lived for thousands of years, leading to feelings of alienation from both humans and adepti.
 
 ### Event
 
 - The Chalk Prince and the Dragon
-  - **Summary**: In this snowy event set in the newly introduced Dragonspine region, the Traveler teams up with Albedo, the mysterious Chief Alchemist of the Knights of Favonius. Albedo is studying a strange substance called 'Dragonspine's Essence' and investigating a dark sword known as Festering Desire. As the investigation unfolds, it's revealed that the sword contains remnants of Durin, a corrupted dragon slain by Dvalin long ago. Albedo, whose origins are already a bit suspicious, struggles with the temptation of power and the morality of creation. The event concludes with Albedo deciding not to pursue forbidden knowledge for now, and he entrusts the Traveler with the enhanced Festering Desire. Meanwhile, the presence of mysterious forces (like the remnants of Gold’s experiments) lingers ominously.
-  - **Characters**: Albedo, Sucrose, Amber
+  - **Summary**: In 'The Chalk Prince and the Dragon,' the Traveler and Paimon join Sucrose in Dragonspine to assist Albedo with his research. Albedo entrusts them with a mysterious sword called Festering Desire, requesting they test it in combat. As they delve deeper, they uncover that the sword contains remnants of Durin, a dragon once defeated by Dvalin. The Fatui, learning of the sword's power, attempt to seize it, but are thwarted by the Traveler and Albedo. Through a series of trials, the sword is purified, and its power is stabilized. The event concludes with Albedo expressing gratitude and hinting at future collaborations.
+  - **Characters**: Albedo, Sucrose, Rosaria
   - **Important Lore**:
-    - Albedo is introduced as the Chief Alchemist of the Knights of Favonius and a student of the famed alchemist Rhinedottir.
-    - Durin, a dragon created by Rhinedottir, was defeated by Dvalin but its remains still corrupt Dragonspine.
-    - The sword Festering Desire contains remnants of Durin's power and can influence its wielder.
+    - Festering Desire is a sword imbued with remnants of Durin's power.
+    - Durin was a dragon defeated by Dvalin and his remains rest in Dragonspine.
+    - Albedo's research focuses on alchemy and the mysteries of life.
+    - Rosaria is introduced as a nun of the Church of Favonius with a skeptical demeanor.
 
 ## 1.3: All That Glitters
 
@@ -85,11 +109,9 @@
 ### Event
 
 - Lantern Rite
-  - **Summary**: Liyue comes together to celebrate their biggest annual tradition. As the city prepares for the release of thousands of Xiao Lanterns and a grand Mingxiao Lantern, the Traveler helps various citizens with preparations. The story focuses heavily on Xiao, the reclusive adeptus who is initially reluctant to join in the celebrations due to his karmic burden. Over time, he opens up slightly thanks to the Traveler’s efforts and memories of the past. Keqing also plays a big role, showing her commitment to Liyue’s future after Rex Lapis’s departure. The event culminates in a beautiful lantern release that honors those who’ve passed and brings the community together.
-  - **Characters**: Xiao, Ganyu, Keqing, Ningguang, Zhongli, Xiangling, Chongyun, Xianyan
+  - **Summary**:
+  - **Characters**:
   - **Important Lore**:
-    - Xiao fights karmic debt daily due to the centuries of battles he’s fought against evil spirits.
-    - Xiao was saved by Rex Lapis (Morax) from enslavement by an evil god, which is why he serves Liyue.
 
 ## 1.4: Invitation of Windblume
 
@@ -102,6 +124,9 @@
 ### Event
 
 - Invitation of Windblume
+  - **Summary**:
+  - **Characters**:
+  - **Important Lore**:
 
 ## 1.5: Beneath the Light of Jadeite
 
@@ -110,7 +135,9 @@
 ### Story Quest
 
 - Zhongli: No Mere Stone
-- Eula: The Spindrift Shall Never Return to the Sea
+  - **Summary**:
+  - **Characters**:
+  - **Important Lore**:
 
 ## 1.6: Midsummer Island Adventure
 
@@ -123,6 +150,9 @@
 ### Event
 
 - Midsummer Island Adventure
+  - **Summary**:
+  - **Characters**:
+  - **Important Lore**:
 
 # Inazuma
 
@@ -143,6 +173,9 @@
 ### Event
 
 - Thunder Sojourn
+  - **Summary**:
+  - **Characters**:
+  - **Important Lore**:
 
 ## 2.1: Floating World Under the Moonlight
 
