@@ -38,29 +38,47 @@
 
 ### Story Quest
 
-- Tartaglia: Mighty Cyclops' Adventure!
+- [Tartaglia: Mighty Cyclops' Adventure!](https://genshin-impact.fandom.com/wiki/Mighty_Cyclops%27_Adventure!)
   - **Summary**: The Traveler and Paimon investigate a Ruin Guard disturbance near Lingju Pass and encounter Teucer, a young boy from Snezhnaya searching for his brother, a 'toy seller' in Liyue. They discover that Teucer's brother is Childe, who maintains a facade to hide his identity as a Fatui Harbinger. Childe asks the Traveler and Paimon to accompany Teucer around Liyue while he attends to business. During their tour, Teucer insists on visiting his brother, leading them to witness Childe's dealings with Treasure Hoarders and Fatui recruits. To preserve his cover, Childe improvises explanations for his actions. Later, Teucer requests to see the 'Institute for Toy Research,' which is actually an abandoned Ruin Guard facility. Childe leads them there and, to protect Teucer, uses his Foul Legacy Transformation to destroy the Ruin Guards, injuring himself in the process. Before Teucer departs for Snezhnaya, Childe secretly gives him a Mr. Cyclops action figure. Teucer thanks the Traveler and Paimon for the adventure, and Childe expresses gratitude for their help in maintaining his cover.
-  - **Characters**: Childe
+  - **Characters**: Childe, Teucer
   - **Important Lore**:
     - Teucer is Childe's youngest sibling and is unaware of his brother's true occupation.
-    - Childe maintains a false identity as a toy seller to conceal his role as a Fatui Harbinger from his younger brother, Teucer.
-    - Childe utilizes his Foul Legacy Transformation to combat Ruin Guards, indicating the technique's significant power and personal cost.
+    - Childe utilizes his Foul Legacy Transformation to combat Ruin Guards, injuring himself in the process as he hadn't fully recovered from using it last at the Golden House.
     - Childe's dedication to his family is profound, often placing their well-being above his own safety.
     - ||TODO - test spoiler||
 
-- Zhongli: Sal Flore
+- [Zhongli: Sal Flore](https://genshin-impact.fandom.com/wiki/Sal_Flore)
   - **Summary**: The Traveler and Paimon join Zhongli on an archaeological expedition to uncover relics of the God of Salt, Havria. Alongside them are Wanyan, an ardent follower of Havria, and Kliment, a Fatui archaeologist with ulterior motives. Upon discovering the ruins, Zhongli proposes a contract: each person may claim one relic in turn. However, Kliment breaks the agreement out of greed and is swiftly expelled by Zhongli. Wanyan, seeking to vindicate Havria and condemn Morax, also violates the contract. She learns a harsh truth: Havria was betrayed and slain by her own people during the Archon War. Disillusioned, Wanyan departs in silence. The quest concludes with Zhongli reflecting on history's fragility and entrusting the Traveler with preserving Liyue's legacy.
   - **Characters**: Zhongli, Havria
   - **Important Lore**:
     - Havria, the God of Salt, was a gentle deity betrayed and killed by her own followers during the Archon War.
     - The betrayal led to the salinization of many of her followers, preserving their final moments in salt.
+    - Zhongli tells the traveler he wanted them to join him to carry on the memory of Havria should the Traveler move on and Teyvat be destroyed.
+      > History records, but history may be changed. This incident proved that. Time is a mighty force, and histories twist in its flow...
+      >
+      > I need to find a better way of recording history in order to engrave its truth.
+      >
+      > Stone carvings were one such ancient method. But unchanging stone, immovable earth, even one such as myself... Someday, we may all disappear. Therefore, I thought of you, Traveler.
+      >
+      > You are one who crosses the celestial atlas, and who passes through countless worlds. If our history is engraved in your memory, it will one day accompany you into another world.
+      >
+      > As long as a Traveler like you is able to record what happened, then a backup of sorts will exist for times and tides of Teyvat.
 
 ### Event
 
-- Unreconciled Stars
-  - **Summary**: Mysterious meteorites crash into Mondstadt and Liyue, causing people to fall into a deep slumber filled with strange dreams. The Traveler teams up with Fischl and Mona to investigate the phenomenon. Mona uses her astrological skills to predict meteorite strike zones, while Fischl assists in the field. During the investigation, they encounter Scaramouche, a mysterious figure from Inazuma who claims to be researching the same issue. As the team collects meteorite shards and battles waves of enemies drawn to the meteorites' energy, they uncover that the meteorites are remnants of a fallen constellation. The event concludes with the resolution of the meteorite crisis and the distribution of rewards, including the opportunity to obtain Fischl as a playable character.
+- [Unreconciled Stars](https://genshin-impact.fandom.com/wiki/Unreconciled_Stars)
+  - **Summary**: Mysterious meteorites crash into Mondstadt and Liyue, causing people to fall into a deep slumber filled with strange dreams. The Traveler teams up with Fischl and Mona to investigate the phenomenon. Mona uses her astrological skills to predict meteorite strike zones, while Fischl assists in the field. During the investigation, they encounter Scaramouche, a mysterious figure from Inazuma who claims to be researching the same issue. As the team collects meteorite shards and battles waves of enemies drawn to the meteorites' energy, they uncover that the meteorites are remnants of a fallen constellation containing the will of Leonard. He was an adventurer with a burning desire to scale the highest peaks and later develop a means of flight.
   - **Characters**: Fischl, Mona, Scaramouche
   - **Important Lore**:
+    - This event was Fischl's first appearence
+      - Her real name is Amy
+      - Her persona, the "Prinzessin der Verurteilung", is a self-styled identity, but one she uses with great sincerity to express herself.
+      - Oz mentions that Fischl adopted this persona to deal with being misunderstood and isolated due to her unusual behavior and interests.
+      - She works for the Adventurers' Guild and is officially recognized and trusted with major assignments
+    - This event was Scaramouche's first appearence
+      - He is a Fatui harbinger
+    - Towards the conclusion, Scaramouche has the following [monologue](https://genshin-impact.fandom.com/wiki/Where_Ancient_Stars_Align) where he states he learned: "The stars, the sky... It's all a gigantic hoax. A lie." and mentions the Jester most likely already knew of this
+      > Warning: the wiki link has hyperlinks on some lines of dialouge which lead to major spoilers.
 
 ## 1.2: The Chalk Prince and the Dragon
 
