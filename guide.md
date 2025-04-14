@@ -46,6 +46,7 @@
     - Childe maintains a false identity as a toy seller to conceal his role as a Fatui Harbinger from his younger brother, Teucer.
     - Childe utilizes his Foul Legacy Transformation to combat Ruin Guards, indicating the technique's significant power and personal cost.
     - Childe's dedication to his family is profound, often placing their well-being above his own safety.
+    - ||TODO - test spoiler||
 
 - Zhongli: Sal Flore
   - **Summary**: The Traveler and Paimon join Zhongli on an archaeological expedition to uncover relics of the God of Salt, Havria. Alongside them are Wanyan, an ardent follower of Havria, and Kliment, a Fatui archaeologist with ulterior motives. Upon discovering the ruins, Zhongli proposes a contract: each person may claim one relic in turn. However, Kliment breaks the agreement out of greed and is swiftly expelled by Zhongli. Wanyan, seeking to vindicate Havria and condemn Morax, also violates the contract. She learns a harsh truth: Havria was betrayed and slain by her own people during the Archon War. Disillusioned, Wanyan departs in silence. The quest concludes with Zhongli reflecting on history's fragility and entrusting the Traveler with preserving Liyue's legacy.
