@@ -83,6 +83,10 @@
     - Ganyu is a half-qilin adeptus who serves as the secretary to the Liyue Qixing.
     - She has lived for thousands of years, leading to feelings of alienation from both humans and adepti.
 
+### World Quest
+
+- In the Mountains
+
 ### Event
 
 - The Chalk Prince and the Dragon
@@ -140,9 +144,10 @@
 ### Event
 
 - Invitation of Windblume
-  - **Summary**:
-  - **Characters**:
+  - **Summary**: Mondstadt's Windblume Festival is a time of love and freedom. The Traveler and Paimon arrive in Mondstadt to find it adorned for the festival. They engage in various activities, including helping Venti with love poems and assisting Kaeya with his 'homework,' which involves delivering a letter written in Hilichurlian. Barbara receives a cryptic message leading to a Windwheel Aster Wreath from her fan club. Sucrose seeks to create a 'Windblume' through alchemy, resulting in a giant Sweet Flower variant. Bennett and Razor are found trapped in a Ruin Guard's prison cell at the Thousand Winds Temple. The Traveler is honored as the 'Windblume Star' and participates in the Windblume Ceremony with Jean, making an offering to the Anemo Archon. Venti later discusses the true meaning of the Windblume Festival at Stormterror's Lair, emphasizing its spirit of love and freedom.
+  - **Characters**: Rosaria, Mondstat Cast
   - **Important Lore**:
+    - The Windblume Festival has evolved from commemorating Mondstadt's liberation to celebrating love and freedom.
 
 ## 1.5: Beneath the Light of Jadeite
 
@@ -151,9 +156,10 @@
 ### Story Quest
 
 - Zhongli: No Mere Stone
-  - **Summary**:
-  - **Characters**:
+  - **Summary**: The Traveler investigates the disappearance of miners in Liyue. Teaming up with Zhongli and a mysterious man named Kun Jun, they uncover clues leading to an ancient tree near Nantianmen. There, they find a sealed cave where the miners are entranced, and a confrontation with the dragon Azhdaha ensues. Azhdaha, once a friend of Zhongli, seeks revenge for being sealed away centuries ago. After defeating Azhdaha, it's revealed that Kun Jun is a manifestation of Azhdaha's remaining consciousness. The quest concludes with Azhdaha's departure and Zhongli reflecting on their past friendship.
+  - **Characters**: Zhongli, Azdaha
   - **Important Lore**:
+    - Azhdaha is a powerful dragon who was once a friend of Morax but was sealed away due to his destructive tendencies.
 
 ## 1.6: Midsummer Island Adventure
 
@@ -166,8 +172,8 @@
 ### Event
 
 - Midsummer Island Adventure
-  - **Summary**:
-  - **Characters**:
+  - **Summary**: Klee receives a mysterious letter from someone named 'Dodo-King,' threatening to take her companion Dodoco away. To investigate, the Traveler, Klee, Jean, Barbara, and Venti journey to the Golden Apple Archipelago, a newly discovered group of islands. There, they face various challenges, including sea battles, timed races, and a confrontation with the new boss, Maguu Kenki. As they progress, they uncover clues leading to the identity of Dodo-King. Ultimately, it's revealed that Dodo-King is Klee's mother, Alice, who orchestrated the entire adventure as a playful summer experience for Klee and her friends.
+  - **Characters**: Klee, Jean, Barbara, Venti, Albedo
   - **Important Lore**:
 
 # Inazuma
