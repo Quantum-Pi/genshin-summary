@@ -77,8 +77,7 @@
       - She works for the Adventurers' Guild and is officially recognized and trusted with major assignments
     - This event was Scaramouche's first appearence
       - He is a Fatui harbinger
-    - Towards the conclusion, Scaramouche has the following [monologue](https://genshin-impact.fandom.com/wiki/Where_Ancient_Stars_Align) where he states he learned: "The stars, the sky... It's all a gigantic hoax. A lie." and mentions the Jester most likely already knew of this
-      > Warning: the wiki link has hyperlinks on some lines of dialouge which lead to major spoilers.
+    - Towards the conclusion, Scaramouche states he realized: **"The stars, the sky... It's all a gigantic hoax. A lie."** and mentions the Jester most likely already knew of this
 
 ## 1.2: The Chalk Prince and the Dragon
 
@@ -86,35 +85,60 @@
 
 ### Story Quest
 
-- Albedo: Traveler Observation Report
-  - **Summary**: The Traveler is invited by Sucrose to assist her mentor, Albedo, the Chief Alchemist of the Knights of Favonius, with his research in Dragonspine. Albedo is intrigued by the Traveler's unique origin and conducts a series of experiments to study their elemental abilities. These experiments include battling slimes, consuming a potion, and attempting to break a pillar using mental focus. Despite the Traveler's efforts, Albedo observes no significant anomalies but remains fascinated by their otherworldly nature. The quest concludes with Albedo expressing his continued interest in the Traveler and hinting at future research endeavors.
+- [Albedo: Traveler Observation Report](https://genshin-impact.fandom.com/wiki/Traveler_Observation_Report)
+  - **Summary**: The Traveler is invited by Sucrose to assist her mentor, Albedo, the Chief Alchemist of the Knights of Favonius, with his research in Dragonspine. Albedo is investigating a seed from another world and wants to see if he can make it flourish with the help of your elemental powers. Meanwhile, Rosaria tails behind them to ensure Albedo's experiments do not pose a threat to Mondstat. The quest concludes with Albedo noticing no abnormalities in how the Traveler interacts with the elements. As the experiment concludes and the traveler leaves, Albedo wonders to himself:
+    > I made a point throughout of telling (‍him/her‍) how ordinary the results were...
+    >
+    > But what was that sediment I saw forming at the bottom of the vial? It should not have been there... What could it mean?
+    >
+    > Those born of earth are bound by its imperfections, but those born of chalk are free of impurities... You and I are alike, both composed of a substance that has yet to be fully defined...
+    >
+    > If one day, I lose control... destroy Mondstadt... destroy everything...
+    >
+    > Can I rely on you to stop me?
   - **Characters**: Albedo, Sucrose, Rosaria
   - **Important Lore**:
-    - Albedo is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.
-    - Albedo was raised by Rhinedottir, a renowned alchemist, and has no memory of any blood relatives.
-    - Sucrose is Albedo's assistant and a fellow alchemist interested in bio-alchemy.
-    - Rosaria is a nun of the Church of Favonius who is skeptical of religious ceremonies and prefers to act independently.
-- Ganyu: Sea of Clouds, Sea of People
-  - **Summary**: Ganyu, feeling out of place among humans due to her half-qilin heritage, retreats to Jueyun Karst. The Traveler and Paimon are tasked with finding her after she fails to return from delivering a letter to the adepti. They discover Ganyu undergoing trials set by Cloud Retainer and Xiao to reconnect with her adeptus roots. Despite completing the trials, Ganyu realizes she feels more at home among humans. She returns to Liyue Harbor, embracing her role as a bridge between humans and adepti.
-  - **Characters**: Ganyu, Cloud Retainer, Xiao, Ningguang
+    - Albedo is first introduced
+      - the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.
+      - TODO[where mentioned] Albedo was raised by Rhinedottir, a renowned alchemist, and has no memory of any blood relatives.
+      - Sucrose is Albedo's assistant and a fellow alchemist interested in bio-alchemy.
+    - Rosaria is first introduced
+      - Rosaria is a nun of the Church of Favonius; however, she does not act the part.
+      - She doesn't trust Albedo, and warns the traveler about blindly following him in his experiments.
+- [Ganyu: Sea of Clouds, Sea of People](https://genshin-impact.fandom.com/wiki/Sea_of_Clouds,_Sea_of_People)
+  - **Summary**: The Traveler and Paimon are tasked with finding Ganyu after she fails to return from delivering a letter to the adepti. Ganyu, feeling out of place among humans due to her half-qilin heritage, is undergoing trials set by Cloud Retainer and Xiao to reconnect with her adeptus roots. After completing the trials, Ganyu is finally able to resolve her inner conflicts and realizes she feels more at home among humans. She returns to Liyue Harbor, embracing her role as a bridge between humans and adepti.
+  - **Characters**: Ganyu, Cloud Retainer, Xiao, Ningguang, Uncle Tian
   - **Important Lore**:
     - Ganyu is a half-qilin adeptus who serves as the secretary to the Liyue Qixing.
-    - She has lived for thousands of years, leading to feelings of alienation from both humans and adepti.
+      - She is a workaholic, with her work-load compleatly overwhelming Ningguang's 3 secretaries in her absence.
+      - She has lived for thousands of years.
+    - Uncle Tian is introduced as the Tianshu of the Liyue Qixing, who is responsible for policymaking.
 
 ### World Quest
 
-- In the Mountains
+- Dragonspire
+  - **Note**: Dragonspire's story telling is very different from later world quests and relies heavily on the FromSoftware. Below is a brief summary of the lore learned through various sources in version 1.2
+  - **Lore**:
+    - In ancient times, the civilazation of Sal Vindagnyr existed on the mountain. Their civilization centered around a large white tree which was of great importance to their culture. For unknown reasons, a nail split off from Celestia and landed near the summit. The city became shrouded in cloud and mist, drawn about by snowstorms. A hero from another land who resided in Sal Vindagnyr left to find answers. Meanwhile, their sacred tree began to wither away. Attempts to heal it all proved fruitless. As the end of their civilazation drew near, a scribe cursed the heavens for forsaking them, wishing for a nation with no god to one day emerge. An unknown time later, the hero returned only to find that everyone had already perished.
+    - During the catacalysm, the corrupted dragon Durin descended upon Dragonspire. Before he could reach Mondstadt, he was slain by Dvalin. The blood from Durin's remains began to seep into the region, eventually reaching the roots of the sacred tree.
+      - Vol. 1 of [*Breeze Amidst the Forest*](https://genshin-impact.fandom.com/wiki/Breeze_Amidst_the_Forest) claims Durin was a creation of the alchemist Rhinedottir (aka Gold)
 
 ### Event
 
 - The Chalk Prince and the Dragon
-  - **Summary**: The Traveler and Paimon join Sucrose in Dragonspine to assist Albedo with his research. Albedo entrusts them with a mysterious sword called Festering Desire, requesting they test it in combat. As they delve deeper, they uncover that the sword contains remnants of Durin, a dragon once defeated by Dvalin. The Fatui, learning of the sword's power, attempt to seize it, but are thwarted by the Traveler and Albedo. Through a series of trials, the sword is purified, and its power is stabilized. The event concludes with Albedo expressing gratitude and hinting at future collaborations.
-  - **Characters**: Albedo, Sucrose, Rosaria
+  - **Summary**: The Traveler and Paimon join Sucrose in Dragonspine to assist Albedo with his research. Albedo entrusts them with a mysterious sword called Festering Desire, requesting they test it in combat. As they delve deeper, they uncover that the sword contains remnants of Durin, a dragon once defeated by Dvalin. The Fatui, learning of the sword's power, attempt to seize it, but are thwarted by the Traveler and Albedo. Through a series of trials, the sword is purified, and its power is stabilized. The event concludes with Albedo expressing gratitude and once again musing to himself:
+    > This dragon's life force resonates with me...
+    >
+    > Not because it's a dragon, but because I am... me.
+    >
+    > Rhinedottir... Master... Is this your creation, the giant dragon Durin?
+    >
+    > Was the two of us meeting really a good thing?
+  - **Characters**: Albedo, Sucrose
   - **Important Lore**:
     - Festering Desire is a sword imbued with remnants of Durin's power.
     - Durin was a dragon defeated by Dvalin and his remains rest in Dragonspine.
-    - Albedo's research focuses on alchemy and the mysteries of life.
-    - Rosaria is introduced as a nun of the Church of Favonius with a skeptical demeanor.
+    - Rhinedottir is Albedo's master
 
 ## 1.3: All That Glitters
 
