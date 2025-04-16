@@ -1,3 +1,13 @@
+# Welcome
+
+TODO
+* Note on accuracy of in game books
+* Note on outside links
+
+# Manga
+
+Genshin Impact had a brief 16 chapter Manga that released before the games official launch. It takes place an estimated 1-2 years before the traveler wakes up. The official English translations of chapters 1-13 can be found on [genshin.hoyoverse](https://genshin.hoyoverse.com/en/manga) and a brief summary of each chapter can be found on the [wiki](https://genshin-impact.fandom.com/wiki/Manga). The manage contains backstory to Kayea & Diluc, the harbinger Il Dottore, and Collei (introduced in-game in 3.0). Note that while the manga is considered canon, there are a few discrepencies regarding Diluc (see wiki for more info).
+
 # Mondstat / Liyue
 
 ## 1.0: Welcome To Teyvat
