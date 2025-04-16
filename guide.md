@@ -137,7 +137,7 @@ The manage contains backstory to Kayea & Diluc, the harbinger Il Dottore, and Co
 
 ### Event
 
-* The Chalk Prince and the Dragon
+* [The Chalk Prince and the Dragon](https://genshin-impact.fandom.com/wiki/The_Chalk_Prince_and_the_Dragon/Story)
   * **Summary**: The Traveler and Paimon join Sucrose in Dragonspine to assist Albedo with his research. Albedo entrusts them with a mysterious sword called Festering Desire, requesting they test it in combat. As they delve deeper, they uncover that the sword contains remnants of Durin, a dragon once defeated by Dvalin. The Fatui, learning of the sword's power, attempt to seize it, but are thwarted by the Traveler and Albedo. Through a series of trials, the sword is purified, and its power is stabilized. The event concludes with Albedo expressing gratitude and once again musing to himself:
     > This dragon's life force resonates with me...
     >
@@ -176,6 +176,7 @@ The manage contains backstory to Kayea & Diluc, the harbinger Il Dottore, and Co
     * Xiao radiates bad karma which he has accumulated from centuries of slaughtering demons. It can have a negative influence on monsters and people around him without visions.
     * He is the last remaining Yaksha.
     * Pervases was another Yaksha who fell in battle thousands of years ago. His spirit returns on the anniversary of his death due to an adeptus art he cast before passing.
+  * **Media** [Story Teaser - Yakshas: The Guardian Adepti | Genshin Impact](https://www.youtube.com/watch?v=Wv-Tr-sSoCs)
 * [Hu Tao: Yet the Butterfly Flutters Away](https://genshin-impact.fandom.com/wiki/Yet_the_Butterfly_Flutters_Away)
   * **Summary**: The Traveler and Paimon encounter Hu Tao, the 77th Director of the Wangsheng Funeral Parlor, while investigating supernatural occurrences in Wuwang Hill. They meet Meng, an intern haunted by a childhood ghost named Big G. Hu Tao enlists the Traveler's help to uncover the truth behind Big G's lingering spirit. The group gathers keepsakes from Big G's friends and conducts a farewell ceremony in a domain called the 'border.' After the ceremony, Big G finds peace and moves on to the afterlife. The quest concludes with Hu Tao expressing her appreciation for the Traveler's assistance and offering a deeper understanding of her role in guiding spirits.
     > As I explained, Wangsheng Funeral Parlor was, once upon a time, more akin to a doctor's office than an actual funeral parlor.
@@ -209,6 +210,7 @@ The manage contains backstory to Kayea & Diluc, the harbinger Il Dottore, and Co
   * **Important Lore**:
     * The Mingxiao Lantern is a massive lantern built annually during the Lantern Rite Festival, with materials contributed by the people of Liyue.
       * This years Mingxiao Lantern was dedicated to Skybracer, a fallen adeptus who sacrificed himself to protect Mt. Tianheng.
+  * **Media**: [Ending Cinematic](https://www.youtube.com/watch?v=62xgOohZbLY) (video released before 1.0 launched)
 
 ## 1.4: Invitation of Windblume
 
@@ -225,6 +227,7 @@ The manage contains backstory to Kayea & Diluc, the harbinger Il Dottore, and Co
   * **Characters**: Rosaria, Mondstat Cast
   * **Important Lore**:
     * The Windblume Festival has evolved from commemorating Mondstadt's liberation to celebrating love and freedom.
+  * **Media**: ["Floral Breeze" - Scenes from Windblume Festival | Genshin Impact](https://www.youtube.com/watch?v=HRksKER0Ies)
 
 ## 1.5: Beneath the Light of Jadeite
 
@@ -237,6 +240,7 @@ The manage contains backstory to Kayea & Diluc, the harbinger Il Dottore, and Co
   * **Characters**: Zhongli, Azdaha
   * **Important Lore**:
     * Azhdaha is a powerful dragon who was once a friend of Morax but was sealed away due to his destructive tendencies.
+  * **Media**: [Story Teaser: Through the Eyes of a Dragon | Genshin Impact](https://www.youtube.com/watch?v=1jUemn6Jk-o)
 
 ## 1.6: Midsummer Island Adventure
 
