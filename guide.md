@@ -6,7 +6,11 @@ TODO
 
 # Manga
 
-Genshin Impact had a brief 16 chapter Manga that released before the games official launch. It takes place an estimated 1-2 years before the traveler wakes up. The official English translations of chapters 1-13 can be found on [genshin.hoyoverse](https://genshin.hoyoverse.com/en/manga) and a brief summary of each chapter can be found on the [wiki](https://genshin-impact.fandom.com/wiki/Manga). The manage contains backstory to Kayea & Diluc, the harbinger Il Dottore, and Collei (introduced in-game in 3.0). Note that while the manga is considered canon, there are a few discrepencies regarding Diluc (see wiki for more info).
+Genshin Impact had a brief 16 chapter Manga that takes place an estimated 1-2 years before the traveler wakes up. 
+
+The official English translations of chapters 1-13 can be found on [hoyoverse](https://genshin.hoyoverse.com/en/manga) and a brief summary of each chapter can be found on the [wiki](https://genshin-impact.fandom.com/wiki/Manga). 
+
+The manage contains backstory to Kayea & Diluc, the harbinger Il Dottore, and Collei (introduced in-game in 3.0). Note that while the manga is considered canon, there are a few discrepancies regarding Diluc (see wiki for more info).
 
 # Mondstat / Liyue
 
@@ -35,8 +39,6 @@ Genshin Impact had a brief 16 chapter Manga that released before the games offic
 - Jean: Master's Day Off
 - Venti: Should You Be Trapped in a Windless Land
 - Mona: Beyond This World's Stars
-
-### Event
 
 ## 1.1: A New Star Approaches
 
@@ -160,30 +162,53 @@ Genshin Impact had a brief 16 chapter Manga that released before the games offic
 
 ### Story Quest
 
-- Xiao: Butterfly's Dream
-  - **Summary**: The Traveler and Paimon encounter hilichurls near Wangshu Inn emitting a dark aura. They meet a masked man claiming to be an adeptus named Starsnatcher, who offers exorcisms for Mora. Suspicious of his authenticity, they investigate further and discover that Starsnatcher is a fraud exploiting people's fears. With Xiao's guidance, they perform a ritual to confront and defeat Starsnatcher's spirit, recovering a Sigil of Permission. The quest concludes with Xiao reflecting on his duty and the burdens he bears.
-  - **Characters**: Xiao, Starsnatcher
+- [Xiao: Butterfly's Dream](https://genshin-impact.fandom.com/wiki/Butterfly%27s_Dream)
+  - **Summary**: The Traveler and Paimon encounter hilichurls near Wangshu Inn emitting a dark aura. They meet a masked man claiming to be an adeptus named Starsnatcher, who offers exorcisms for Mora. Suspicious of his authenticity, they investigate further and discover that Starsnatcher is a fraud exploiting people's fears. With Xiao's guidance, they perform a ritual to confront Starsnatcher's spirit while he is asleep. After making an example out of him, Starsnatcher apologizes and decides to go on a pilgramige of self reflection on his own accord.
+    > Pervases: I sense his aura upon you... that, and the heavy burden of his karma.
+    >
+    > *sigh* Even after all these millennia, he still must endure such tremendous suffering? ...I am truly ashamed.
+    >
+    > Life is a precious thing, yes... But when I think of the burden that the Conqueror of Demons must bear... *sigh* death seems to me to have been the easy way out. A selfish indulgence, even.
+    >
+    > Birthdays are joyful occasions, but by the same token, it is hard to not be melancholy on the anniversary of one's death.
+  - **Characters**: Xiao, Pervases, Starsnatcher
   - **Important Lore**:
-    - Xiao is one of the five foremost Yakshas summoned by Rex Lapis to subdue the lingering hatred of fallen gods.
-    - The Yakshas' duty exposed them to immense karmic debt, leading to the demise or disappearance of all but Xiao.
-    - Xiao was enslaved by an ancient god who forced him to perform cruel acts, including devouring dreams.
-    - Rex Lapis liberated Xiao during the Archon War and gave him the name 'Xiao' for his protection.
-- Hu Tao: Yet the Butterfly Flutters Away
+    - Xiao radiates bad karma which he has accumulated from centuries of slaughtering demons. It can have a negative influence on monsters and people around him without visions.
+    - He is the last remaining Yaksha.
+    - Pervases was another Yaksha who fell in battle thousands of years ago. His spirit returns on the anniversary of his death due to an adeptus art he cast before passing.
+- [Hu Tao: Yet the Butterfly Flutters Away](https://genshin-impact.fandom.com/wiki/Yet_the_Butterfly_Flutters_Away)
   - **Summary**: The Traveler and Paimon encounter Hu Tao, the 77th Director of the Wangsheng Funeral Parlor, while investigating supernatural occurrences in Wuwang Hill. They meet Meng, an intern haunted by a childhood ghost named Big G. Hu Tao enlists the Traveler's help to uncover the truth behind Big G's lingering spirit. The group gathers keepsakes from Big G's friends and conducts a farewell ceremony in a domain called the 'border.' After the ceremony, Big G finds peace and moves on to the afterlife. The quest concludes with Hu Tao expressing her appreciation for the Traveler's assistance and offering a deeper understanding of her role in guiding spirits.
+    > As I explained, Wangsheng Funeral Parlor was, once upon a time, more akin to a doctor's office than an actual funeral parlor.
+    >
+    > During the Archon War, piles of corpses covered the wilderness. People were plunged into misery and suffering. Disease was spreading all over the land. Death devastated the world of the living.
+    >
+    > Such were the times when the Wangsheng Funeral Parlor was first established. As humans, its founders were deemed too insignificant to matter, but slowly, they managed to drive away death.
+    >
+    > After generations, Liyue Harbor became a bustling hub of prosperity, luring people with dreams of great fame and abundant Mora. But in the end, some lunatics stirred up the "legacy" of the dead.
+    >
+    > By that, I mean the remnants of the defeated gods that ravaged the world. I won't go into specifics of that situation, but suffice to say that at its peak, life was on the verge of bringing about its own extinction, while death was coming back with a vengeance.
+    >
+    > It took a long, long time, longer than you'd think, to restore balance and reinstate the "border." Without it, Liyue Harbor as we know it wouldn't be here today — neither would the Wangsheng Funeral Parlor, you, or me.
+    >
+    > What you make of my words is up to you. I do hope that most of it flew over your heads, though. The Wangsheng Funeral Parlor is just that, a funeral parlor. Nothing more to it.
+    >
+    > We live in peaceful times, but this harmonious coexistence between life and death should never be taken for granted.
   - **Characters**: Hu Tao, Meng, Big G
   - **Important Lore**:
-    - Hu Tao is the 77th Director of the Wangsheng Funeral Parlor in Liyue. She is responsible for conducting funerals and guiding spirits to the afterlife.
-    - Hu Tao can see and communicate with ghosts.
-    - The 'border' is a domain where farewell ceremonies for lingering spirits are conducted.
+    - The 'border' is the domain seperating life and death for all those connected to Teyvat's leylines.
+    - Many of the spirits which linger on the border still long for the world of the living.
+    - Hu Tao is first introduced:
+      - She is the 77th Director of the Wangsheng Funeral Parlor in Liyue.
+      - She is capable of seeing spirits, and helps maintain the balance on the border in her role of the director
 
 ### Event
 
-- Lantern Rite
+- [Lantern Rite](https://genshin-impact.fandom.com/wiki/Lantern_Rite/Story)
   - **Summary**: During Liyue's Lantern Rite Festival, the Traveler and Paimon are asked by Verr Goldet to check on Xiao, who is reluctant to participate in the festivities. While enjoying the festival, they uncover a suspicious individual near the Mingxiao Lantern's construction site. Their investigation leads them to Mondstadt, where Kaeya helps identify the suspect as a member of the Treasure Hoarders. After thwarting the suspect's misguided plan, they return to Liyue. To include Xiao in the celebrations, they set up a mini-festival at Wangshu Inn. Eventually, they convince Xiao to accompany them to a vantage point to view the Mingxiao Lantern, allowing him to quietly appreciate the festival.
   - **Characters**: Xiao
   - **Important Lore**:
     - The Mingxiao Lantern is a massive lantern built annually during the Lantern Rite Festival, with materials contributed by the people of Liyue.
-    - The 1.3 Lantern Rite Festival's Mingxiao Lantern was dedicated to Skybracer, a fallen adeptus who sacrificed himself to protect Mt. Tianheng.
+      - This years Mingxiao Lantern was dedicated to Skybracer, a fallen adeptus who sacrificed himself to protect Mt. Tianheng.
 
 ## 1.4: Invitation of Windblume
 
