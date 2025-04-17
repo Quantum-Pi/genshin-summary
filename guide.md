@@ -176,7 +176,7 @@ The manage contains backstory to Kayea & Diluc, the harbinger Il Dottore, and Co
     * Xiao radiates bad karma which he has accumulated from centuries of slaughtering demons. It can have a negative influence on monsters and people around him without visions.
     * He is the last remaining Yaksha.
     * Pervases was another Yaksha who fell in battle thousands of years ago. His spirit returns on the anniversary of his death due to an adeptus art he cast before passing.
-  * **Media** [Story Teaser - Yakshas: The Guardian Adepti | Genshin Impact](https://www.youtube.com/watch?v=Wv-Tr-sSoCs)
+  * **Media**: [Story Teaser - Yakshas: The Guardian Adepti | Genshin Impact](https://www.youtube.com/watch?v=Wv-Tr-sSoCs)
 * [Hu Tao: Yet the Butterfly Flutters Away](https://genshin-impact.fandom.com/wiki/Yet_the_Butterfly_Flutters_Away)
   * **Summary**: The Traveler and Paimon encounter Hu Tao, the 77th Director of the Wangsheng Funeral Parlor, while investigating supernatural occurrences in Wuwang Hill. They meet Meng, an intern haunted by a childhood ghost named Big G. Hu Tao enlists the Traveler's help to uncover the truth behind Big G's lingering spirit. The group gathers keepsakes from Big G's friends and conducts a farewell ceremony in a domain called the 'border.' After the ceremony, Big G finds peace and moves on to the afterlife. The quest concludes with Hu Tao expressing her appreciation for the Traveler's assistance and offering a deeper understanding of her role in guiding spirits.
     > As I explained, Wangsheng Funeral Parlor was, once upon a time, more akin to a doctor's office than an actual funeral parlor.
@@ -222,11 +222,22 @@ The manage contains backstory to Kayea & Diluc, the harbinger Il Dottore, and Co
 
 ### Event
 
-* Invitation of Windblume
+* [Invitation of Windblume](https://genshin-impact.fandom.com/wiki/Invitation_of_Windblume/Story)
   * **Summary**: Mondstadt's Windblume Festival is a time of love and freedom. The Traveler and Paimon arrive in Mondstadt to find it adorned for the festival. They engage in various activities, including helping Venti with love poems and assisting Kaeya with his 'homework,' which involves delivering a letter written in Hilichurlian. Barbara receives a cryptic message leading to a Windwheel Aster Wreath from her fan club. Sucrose seeks to create a 'Windblume' through alchemy, resulting in a giant Sweet Flower variant. Bennett and Razor are found trapped in a Ruin Guard's prison cell at the Thousand Winds Temple. The Traveler is honored as the 'Windblume Star' and participates in the Windblume Ceremony with Jean, making an offering to the Anemo Archon. Venti later discusses the true meaning of the Windblume Festival at Stormterror's Lair, emphasizing its spirit of love and freedom.
-  * **Characters**: Rosaria, Mondstat Cast
-  * **Important Lore**:
-    * The Windblume Festival has evolved from commemorating Mondstadt's liberation to celebrating love and freedom.
+    > Venti: I know your question. What are Windblumes, exactly? And what do Windblumes and the Windblume Festival mean to Barbatos, the Anemo Archon?
+    >
+    > As you've seen, the people of Mondstadt each make their own choice. Out of the millions of flowers there are, some choose the dandelion, others choose the Windwheel Aster.
+    >
+    > There is no single and answer and no true Windblumes in existence.
+    >
+    > The word "Windblume" dates from the age of Old Mondstadt. It was a code word that the people used to stay in contact and mount resistance in secret. At that time, people often said that the stronger the wind blows, the firmer the roots of the Windblume grow, and the brighter the flower that bursts into bloom.
+    >
+    > If you want my perspective, Windblumes don't exist. Yet they are all around us nonetheless.
+    >
+    > They are the spirit of yearning for freedom, the courage to follow the wind wherever it may lead... All objects are beautiful and worthy of blessing... All can be Windblumes.
+    >
+    > So what are Windblumes? Something that the Anemo Archon Barbatos will not define. Flowers of blessings, flowers of respect, flowers of love. Every individual has their own Windblumes and every individual has the right to define them.
+  * **Characters**: Mondstat Cast
   * **Media**: ["Floral Breeze" - Scenes from Windblume Festival | Genshin Impact](https://www.youtube.com/watch?v=HRksKER0Ies)
 
 ## 1.5: Beneath the Light of Jadeite
