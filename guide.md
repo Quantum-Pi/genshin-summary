@@ -246,11 +246,22 @@ The manage contains backstory to Kayea & Diluc, the harbinger Il Dottore, and Co
 
 ### Story Quest
 
-* Zhongli: No Mere Stone
-  * **Summary**: The Traveler investigates the disappearance of miners in Liyue. Teaming up with Zhongli and a mysterious man named Kun Jun, they uncover clues leading to an ancient tree near Nantianmen. There, they find a sealed cave where the miners are entranced, and a confrontation with the dragon Azhdaha ensues. Azhdaha, once a friend of Zhongli, seeks revenge for being sealed away centuries ago. After defeating Azhdaha, it's revealed that Kun Jun is a manifestation of Azhdaha's remaining consciousness. The quest concludes with Azhdaha's departure and Zhongli reflecting on their past friendship.
+* [Zhongli: No Mere Stone](https://genshin-impact.fandom.com/wiki/No_Mere_Stone)
+  * **Summary**: The Traveler investigates the disappearance of miners in Liyue. Teaming up with Zhongli and a mysterious man named Kun Jun, they uncover clues leading to an ancient tree near Nantianmen. There, they find a sealed cave where the miners are entranced, and a confrontation with the dragon Azhdaha ensues. Azhdaha, once a friend of Zhongli, began to suffer from erosion due to distriptions to the Ley Lines in the Chasm and became aggressive. Eventually Azhdaha split in two: his body became crazed and savage, while his consciousness remained benevolent and kind. Unable to save him, his benevolent conscious worked with Zhongli to seal his body away. After Zhongli and the Traveler successfully seal him away for a second time, the Traveler asks Zhongli what he knows about Khaenri'ah:
+    > Zhongli: I cannot say. I must apologize. This is my contract.
+    >
+    > It was signed before it all began. I have always honored the contract... and kept my silence.
+    >
+    > You two are friends to me. I can assure it brings me no pleasure to disappoint you. But as the God of Contracts, I cannot go back on my word.
+    >
+    > It appears your understanding of this world continues to grow. There are many events of ages past... many secrets that lie hidden... They have been eroded by time, forgotten by the people... abandoned.
+    >
+    > But you are capable of finding them and bringing them into the light. Those who come to witness... will witness. Those who are born to remember... will remember.
+    >
+    > f you take the same road as that person (Dainsleif), there may be more difficulties ahead. But as long as you firmly believe that you are on the right path... everything has meaning. 
   * **Characters**: Zhongli, Azdaha
   * **Important Lore**:
-    * Azhdaha is a powerful dragon who was once a friend of Morax but was sealed away due to his destructive tendencies.
+    * TODO
   * **Media**: [Story Teaser: Through the Eyes of a Dragon | Genshin Impact](https://www.youtube.com/watch?v=1jUemn6Jk-o)
 
 ## 1.6: Midsummer Island Adventure
